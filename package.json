@@ -17,12 +17,3 @@
     "node": ">=18.0.0"
   }
 }
-```
-
-#### **Archivo: .gitignore**
-```
-node_modules/
-.env
-.DS_Store
-*.log
-
